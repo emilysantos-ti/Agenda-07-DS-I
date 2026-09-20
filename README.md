@@ -42,7 +42,7 @@ O sistema permite:
 |---|---:|---|
 | 🏢 Comercial | Qualquer valor válido | Tarifa comercial aplicada |
 | 🏠 Apartamento | Menor que 10 m³ | Consumo econômico |
-| 🏡 Casa ou apartamento | Até 25 m³ | Consumo moderado |
+| 🏡 Casa ou apartamento | De 10 a 25 m³ | Consumo moderado |
 | ⚠️ Residencial | Acima de 25 m³ | Consumo excessivo |
 
 ### Mensagens apresentadas
